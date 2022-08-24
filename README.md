@@ -7,3 +7,4 @@
 *   V-BOX
 *   Servo
 *   Inverter
+theme: THEME-NAME
